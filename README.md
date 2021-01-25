@@ -1,6 +1,6 @@
 ### Hi, I'm Stefany 👋
 
-##About me ✨
+## About me ✨
 
 - 🔭 I’m currently working on .NET, HTML5, CSS3 and JavaScript
 - 🌱 I’m currently learning .NET
